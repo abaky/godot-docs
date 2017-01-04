@@ -96,7 +96,7 @@ Consider the player as a reusable element in other levels. It is composed of one
 
 2. Second, a scene for the Enemy.
 
-There again, an enemy is a reusable element in other levels. It is almost the same as the Player node - the only differences are the script (that manages IA, mostly) and sprite textures used by the AnimatedSprite.
+There again, an enemy is a reusable element in other levels. It is almost the same as the Player node - the only differences are the script (that manages AI, mostly) and sprite textures used by the AnimatedSprite.
 
 3. Lastly, the Level scene.
 
