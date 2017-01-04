@@ -158,7 +158,7 @@ Design
 
 As you may know already, Unity supports 2 scripting languages for its API: C# and Javascript (called UnityScript). Both languages can be used in the same project (but not in the same file, of course). Choosing one instead of the other is a matter of personal taste, as performances seem not to be affected that much by the use of Javascript as long as the project remains small. C# benefits from its integration with Visual Studio and other specific features, such as static typing.
 
-Godot provides its own scripting language: GDScript. This language borrows its syntax to Python, but is not related to it. If you wonder about why GDScript and not Lua, C# or any other, please read `GDScript <gdscript>`_ and `FAQ <faq>`_ pages. GDScript is strongly attached to Godot API, but it is really easy to learn: between 1 evening for an experimented programmer and 1 week for a complete beginner.
+Godot provides its own scripting language: GDScript. This language borrows its syntax to Python, but is not related to it. If you wonder about why GDScript and not Lua, C# or any other, please read `GDScript <gdscript>`_ and `FAQ <faq>`_ pages. GDScript is strongly attached to Godot API, but it is really easy to learn: between 1 evening for an experienced programmer and 1 week for a complete beginner.
 
 Unity allows you to attach as many scripts as you want to a GameObject. Each script adds a behaviour to the GameObject: for example, you can attach a script so that it reacts to the player's controls, and another that controls its specific game logic.
 
