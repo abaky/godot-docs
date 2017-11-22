@@ -101,7 +101,7 @@ GI Probes support a few parameters for tweaking:
 Quality
 -------
 
-GIProbes are quite demanding. It is possible to use lower quality voxel cone tracing in exchange of more performance.
+GIProbes are quite demanding. It is possible to use lower quality voxel cone tracing in exchange for more performance.
 
 .. image:: img/giprobe_quality.png
 
